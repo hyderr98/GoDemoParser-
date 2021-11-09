@@ -228,12 +228,6 @@ Lexical error [ not recognized
 
 Later we will redirect the output to Scheme and Prolog programs respectively.
 
-## Assignment Requirements
-- Good programming practices
-  - Indentation
-  - Meaningful identifier naming
-  - Consistent variable naming convention
-- This activity is strictly individual
 
 ## Delivery
 
